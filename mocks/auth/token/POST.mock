@@ -1,0 +1,6 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+{
+   "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwiY2xpZW50SWQiOiJ0b2RvcyIsImlhdCI6MTUxNjIzOTAyMn0.YD_HJROnQHJIROzVBagK27D862QoNvokSDFxDbA8_Ug"
+}
